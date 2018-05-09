@@ -1,7 +1,9 @@
 # KWIC-Program
 
-1. What criteria did you use to decompose the first design?
+1. What criteria did you use to decompose the first design? 
+   In the first design I looked at how the program flowed from one method to another to see where I might be able to make changes.
 2. What criteria did you use to decompose the second design?
+   
 3. Which design is more resilient to change? And why?
 4. What would have to change in the first design/implementation if the file were changed out for a database?
 5. What would have to change in the second design/implementation if the file were changed out for a database?
